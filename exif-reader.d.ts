@@ -1,5 +1,5 @@
-/// <reference types="node" />
-/// <reference lib="es2017.sharedmemory" />
+// <reference types="node" />
+// <reference lib="es2017.sharedmemory" />
 
 export as namespace ExifReader;
 
